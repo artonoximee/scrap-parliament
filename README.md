@@ -89,3 +89,7 @@ When the programs are finished scraping, you can go in the 'db' folder, and chec
 
 CSV files can be opened in Excel to put them in a proper table. Check [this tutorial](https://support.office.com/en-us/article/Import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba) for this action.
 
+### 3. credits
+
+Brought to you by [MLAV.LAND](http://mlav.land) - Micro Laboratoire pour l'Architecture et la Ville. 2020.
+
