@@ -9,7 +9,8 @@ This repository contains a Ruby app that can scrap the emails and names of all t
 To use this app, you should be running Mac or Linux. The following instructions are for Mac users.
 
 #### b. introduction to the terminal
-In order to open your [terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)), press cmd + spacebar and type 'terminal'
+In order to open your [terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)), press cmd + spacebar and type 'terminal'.
+
 The terminal is a non graphical interface that permits you to make actions on your computer.
 
 #### c. installing ruby
@@ -37,23 +38,28 @@ The terminal is going to ask for your computer password, in order to correctly i
 
 #### e. downloading the program
 
-To download the program, click on the green button at the top right button of this page that says 'Clone or download'. Click 'Download Zip'
+To download the program, click on the green button at the top right button of this page that says 'Clone or download'. Click 'Download Zip'.
+
 Unzip the file you just downloaded.
 
 #### f. accessing the folder from the temrinal
 
 The terminal is an interface with which we can navigate in the computer's folders.
+
 To access the Downloads folder, type the following in your terminal ('cd' means 'change directory'):
 ```
 cd Downloads/scrap_parliament-master
 ```
 If your computer is in a different language, try changing 'Downloads' with the name of your Downloads folder (i. e. 'Telechargements' for french users).
+
 Your terminal should now show the name of the folder you're in at the beginning of the line.
 
 #### g. bundle install
 
 We're going to install the gems we need in order to launch the program.
+
 We're using the Bundler, installed at the d. step of this tutorial.
+
 To do this, type this in your terminal :
 ```
 bundle install
@@ -61,7 +67,7 @@ bundle install
 
 #### h. launching the program
 
-To launch the program, we'll move again to go in the 'lib' directory. To do this, type this in your terminal :
+To launch the program, we'll move in the 'lib' directory. To do this, type this in your terminal :
 ```
 cd lib
 ```
@@ -70,7 +76,7 @@ In order to launch the program that scraps names and emails from deputies, type 
 ```
 ruby scrap_deputies.rb
 ```
-To scrap names and emails from senators, type this the terminal :
+To scrap names and emails from senators, type this in the terminal :
 ```
 ruby scrap_senators.rb
 ```
