@@ -38,11 +38,11 @@ The terminal is going to ask for your computer password, in order to correctly i
 
 #### e. downloading the program
 
-To download the program, click on the green button at the top right button of this page that says 'Clone or download'. Click 'Download Zip'.
+To download the program, click on the green button at the top right of this page that says 'Clone or download'. Click 'Download Zip'.
 
 Unzip the file you just downloaded.
 
-#### f. accessing the folder from the temrinal
+#### f. accessing the folder from the terminal
 
 The terminal is an interface with which we can navigate in the computer's folders.
 
