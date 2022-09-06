@@ -1,5 +1,7 @@
 # scrap parliament
 
+ℹ️ This script has been successfully tested the 6th of september 2022.
+
 ### 1. Purpose
 This repository contains a Ruby app that can scrap the emails and names of all the representatives from the French Parliament (Senators and Deputies). It outputs its results in two different CSV files.
 
