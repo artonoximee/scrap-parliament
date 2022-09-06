@@ -91,5 +91,5 @@ CSV files can be opened in Excel to put them in a proper table. Check [this tuto
 
 ### 3. Credits
 
-Brought to you by [MLAV.LAND](http://mlav.land) - Micro Laboratoire pour l'Architecture et la Ville. 2020.
+Brought to you by [Maud Lévy](mailto:maud@mlav.land) & [Antoine Vercoutère](mailto:antoine@mlav.land) - [MLAV.LAND](http://mlav.land) - Micro Laboratoire pour l'Architecture et la Ville. 2020.
 
